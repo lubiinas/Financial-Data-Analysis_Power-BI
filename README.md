@@ -21,7 +21,7 @@ Improved financial decision-making with real-time performance tracking.
 
 Enabled accurate budget forecasting by comparing actual vs. planned spending.
 
-How to Use
+## How to Use
 Open the Power BI Dashboard (.pbix file).
 
 Connect to your financial dataset (Excel, SQL, or other sources).
