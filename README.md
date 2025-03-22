@@ -2,19 +2,19 @@
 Project Overview
 This project focuses on analyzing financial data using Power BI to provide actionable insights. The interactive dashboard helps in tracking revenue trends, profit margins, and budget vs. actual spending, enabling data-driven decision-making for financial management.
 
-Key Features
+## Key Features  
 ✅ Interactive Financial Dashboard – Visual representation of revenue trends, profit margins, and budget performance.
 ✅ DAX Measures & Data Modeling – Implemented advanced calculations for dynamic insights.
 ✅ Real-Time Data Insights – Enhanced financial reporting with real-time tracking.
 
-Tools & Technologies Used
+## Tools & Technologies Used
 Power BI – Data visualization and interactive dashboard creation
 
 DAX (Data Analysis Expressions) – Advanced calculations and measures
 
 SQL/Excel – Data preprocessing and transformation (if applicable)
 
-Insights & Outcomes
+## Insights & Outcomes
 Identified key revenue drivers and expense patterns.
 
 Improved financial decision-making with real-time performance tracking.
